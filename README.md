@@ -1,6 +1,6 @@
 # Fontello-SF-Symbols
 * There are all generated SF Symbols icons by Fontello to use for your websites
-* We also uploaded all icons in svg format.
+* We also uploaded all icons in svg format (sf-symbols-svg.zip)
 
 `* Important: To see all other SF Symbols icons, you can drag and drop the config.json file to http://fontello.com, then you can select more SF Symbols icons from the list to use on your website. This demo source just show some SF Symbols icons.`
 
